@@ -1,0 +1,3 @@
+The dataset is based on Absenteeism. A diiferent type of dataset application to association rule mining.
+
+For Association Rule Mining
